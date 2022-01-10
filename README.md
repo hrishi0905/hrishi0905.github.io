@@ -3,7 +3,7 @@
                                                     </h3>
 <ul class="sidearm-roster-players">
 						                            
-							                            <li class="sidearm-roster-player" data-bind="click: togglePlayer" data-player-id="5365" data-player-url="/sports/track-and-field/roster/alex-alton/5365" aria-live="polite" aria-relevant="additions">
+							                            <li class="sidearm-roster-player" data-bind="click: togglePlayer" data-player-id="5365" data-player-url="/sports/track-and-field/roster/Karthik-Anand/5365" aria-live="polite" aria-relevant="additions">
 								                            <div class="sidearm-roster-player-container flex row flex-wrap flex-align-center">
 
 									                            <div class="sidearm-roster-player-details flex flex-align-center large-6 x-small-12 full columns">
