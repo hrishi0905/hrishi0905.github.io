@@ -3,15 +3,8 @@
                                                     </h3>
 <ul class="sidearm-roster-players">
 						                            
-							                            <li class="sidearm-roster-player" data-bind="click: togglePlayer" data-player-id="5365" data-player-url="/sports/track-and-field/roster/Karthik-Anand/5365" aria-live="polite" aria-relevant="additions">
-								                            <div class="sidearm-roster-player-container flex row flex-wrap flex-align-center">
-
-									                            <div class="sidearm-roster-player-details flex flex-align-center large-6 x-small-12 full columns">
-										                            
-											                            <div class="sidearm-roster-player-image column">
-                                                                        
-												                            <a data-bind="click: function() { return true; }, clickBubble: false" href="/sports/track-and-field/roster/Karthik Anand/5365" aria-label="Karthik Anand " - View Full Bio" title="View Full Bio">
-													                            <img class=" lazyloaded" data-src="/images/2021/9/9/Anand_KarthikW.png?width=80" alt="karthik22" src="/images/2021/9/9/Anand_KarthikW.png?width=80">
+							                            <li class="sidearm-roster-player" data-bind="click: togglePlayer" data-player-id="5365" 
+											
 												                            </a>
                                                                         
 											                            </div>
