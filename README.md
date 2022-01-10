@@ -10,7 +10,7 @@
 										                            
 											                            <div class="sidearm-roster-player-image column">
                                                                         
-												                            <a data-bind="click: function() { return true; }, clickBubble: false" href="/sports/track-and-field/roster/Karthik Anand/5365" aria-label="Karthik Anand " - View Full Bio" title="View Full Bio">
+												                            <a data-bind="click: function() { return true; }, clickBubble: false" href="/sports/track-and-field/roster/Karthik Anand/5365" aria-label="Karthik Anand" - View Full Bio" title="View Full Bio">
 													                            <img class=" lazyloaded" data-src="/images/2021/9/9/Alton_AlexW.png?width=80" alt="Alton 22" src="/images/2021/9/9/Alton_AlexW.png?width=80">
 												                            </a>
                                                                         
